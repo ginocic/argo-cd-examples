@@ -1,1 +1,1 @@
-# argo-cd-examples
+# Argo CD Examples
